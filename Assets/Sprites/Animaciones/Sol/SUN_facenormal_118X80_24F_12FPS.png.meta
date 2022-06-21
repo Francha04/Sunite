@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 57a90992be978984880ca4a123bbd06d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4996660801366631368
+    second: SUN_facenormal_118X80_24F_12FPS_0
+  - first:
+      213: 1260652378614827252
+    second: SUN_facenormal_118X80_24F_12FPS_1
+  - first:
+      213: 6401780462694621110
+    second: SUN_facenormal_118X80_24F_12FPS_2
+  - first:
+      213: -4246722826341730343
+    second: SUN_facenormal_118X80_24F_12FPS_3
+  - first:
+      213: 8180861876436834762
+    second: SUN_facenormal_118X80_24F_12FPS_4
+  - first:
+      213: -3665966613137028727
+    second: SUN_facenormal_118X80_24F_12FPS_5
+  - first:
+      213: -1850991868462198744
+    second: SUN_facenormal_118X80_24F_12FPS_6
+  - first:
+      213: -3906231012231281396
+    second: SUN_facenormal_118X80_24F_12FPS_7
+  - first:
+      213: -6251442679418397895
+    second: SUN_facenormal_118X80_24F_12FPS_8
+  - first:
+      213: 4562030544226138280
+    second: SUN_facenormal_118X80_24F_12FPS_9
+  - first:
+      213: 7179759144414759916
+    second: SUN_facenormal_118X80_24F_12FPS_10
+  - first:
+      213: 5203154273605617282
+    second: SUN_facenormal_118X80_24F_12FPS_11
+  - first:
+      213: 578787620947022476
+    second: SUN_facenormal_118X80_24F_12FPS_12
+  - first:
+      213: -8069288457936794776
+    second: SUN_facenormal_118X80_24F_12FPS_13
+  - first:
+      213: 543574920912388742
+    second: SUN_facenormal_118X80_24F_12FPS_14
+  - first:
+      213: -656113491863870697
+    second: SUN_facenormal_118X80_24F_12FPS_15
+  - first:
+      213: 6514444098977851795
+    second: SUN_facenormal_118X80_24F_12FPS_16
+  - first:
+      213: -7698443158862707615
+    second: SUN_facenormal_118X80_24F_12FPS_17
+  - first:
+      213: 3998905493083922304
+    second: SUN_facenormal_118X80_24F_12FPS_18
+  - first:
+      213: 4977874501427653255
+    second: SUN_facenormal_118X80_24F_12FPS_19
+  - first:
+      213: -6284306609692796592
+    second: SUN_facenormal_118X80_24F_12FPS_20
+  - first:
+      213: -8197416900050248074
+    second: SUN_facenormal_118X80_24F_12FPS_21
+  - first:
+      213: -2304874014728206122
+    second: SUN_facenormal_118X80_24F_12FPS_22
+  - first:
+      213: 4361889532503309691
+    second: SUN_facenormal_118X80_24F_12FPS_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b462bd3d362c65438575dcd9f49cdb6
+      internalID: -4996660801366631368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 432
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fb277da95249e40b306eeb82e6ee2f
+      internalID: 1260652378614827252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 432
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393fa4aba4107134189c84d9bd30449a
+      internalID: 6401780462694621110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 432
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dde85146306e44baec0b54318519eb
+      internalID: -4246722826341730343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9b49df8ff9f094eb20726b041c5203
+      internalID: 8180861876436834762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 352
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f8707a2d0d69b43ab893a437c59238
+      internalID: -3665966613137028727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 352
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86041d1ac6ab0438d831bbaf8f5405
+      internalID: -1850991868462198744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 352
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021003f2513014a4c8d28c94cce391de
+      internalID: -3906231012231281396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146c314a328ea84ca3049752de8af12
+      internalID: -6251442679418397895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 272
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaad32019d4ba974ca13359c68cad795
+      internalID: 4562030544226138280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 272
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c41d00604c77fd49a6f77be087bdda9
+      internalID: 7179759144414759916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 272
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865fb69b4723db44ab380812f13e460a
+      internalID: 5203154273605617282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2a71c099334a478463f799d8a80ec
+      internalID: 578787620947022476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 192
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e67613e6227db4b96e25dd5d18bf87
+      internalID: -8069288457936794776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 192
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca0f58688ab5f44db8a78480931dbec
+      internalID: 543574920912388742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 192
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86984a5ae9f78a644955abefbc7d7992
+      internalID: -656113491863870697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260b5df4348c47345864b209486f0c09
+      internalID: 6514444098977851795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b26f634c7130f942b9dc8e1a6d4dbdb
+      internalID: -7698443158862707615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 112
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b288fdf1f1a8943bd67b9bbb9901bc
+      internalID: 3998905493083922304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 112
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5ed8870aca40b45b0e9147bd9df1d4
+      internalID: 4977874501427653255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d18adceb585194eb727925851fe21b
+      internalID: -6284306609692796592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 32
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c855f3a7693bc40992695e0f2c7bc0
+      internalID: -8197416900050248074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 32
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e187d827fe26e4aa418c299f186578
+      internalID: -2304874014728206122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUN_facenormal_118X80_24F_12FPS_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 32
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5279708bcb0aa4dbc995aeb83611af
+      internalID: 4361889532503309691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

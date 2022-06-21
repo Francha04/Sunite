@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 106c97293dc375c49bac5c08083c793f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1950484350328106421
+    second: Sun_idle_24f_12fps_300X300_0
+  - first:
+      213: 8664419867042770327
+    second: Sun_idle_24f_12fps_300X300_1
+  - first:
+      213: -347967895379778404
+    second: Sun_idle_24f_12fps_300X300_2
+  - first:
+      213: 1847157736537575598
+    second: Sun_idle_24f_12fps_300X300_3
+  - first:
+      213: -1464433010183613238
+    second: Sun_idle_24f_12fps_300X300_4
+  - first:
+      213: -7313536855014567616
+    second: Sun_idle_24f_12fps_300X300_5
+  - first:
+      213: 5358749995499513734
+    second: Sun_idle_24f_12fps_300X300_6
+  - first:
+      213: 190789717557703332
+    second: Sun_idle_24f_12fps_300X300_7
+  - first:
+      213: -1184022483100043555
+    second: Sun_idle_24f_12fps_300X300_8
+  - first:
+      213: 3027184635866857964
+    second: Sun_idle_24f_12fps_300X300_9
+  - first:
+      213: 6031946822699224599
+    second: Sun_idle_24f_12fps_300X300_10
+  - first:
+      213: -6168243945855985216
+    second: Sun_idle_24f_12fps_300X300_11
+  - first:
+      213: -1737054908021475169
+    second: Sun_idle_24f_12fps_300X300_12
+  - first:
+      213: 6987706053176569563
+    second: Sun_idle_24f_12fps_300X300_13
+  - first:
+      213: -8669556050026334565
+    second: Sun_idle_24f_12fps_300X300_14
+  - first:
+      213: 5626760731577072596
+    second: Sun_idle_24f_12fps_300X300_15
+  - first:
+      213: -8465487396258416350
+    second: Sun_idle_24f_12fps_300X300_16
+  - first:
+      213: -422636215442461614
+    second: Sun_idle_24f_12fps_300X300_17
+  - first:
+      213: -4107461135461244769
+    second: Sun_idle_24f_12fps_300X300_18
+  - first:
+      213: 8033865981133990255
+    second: Sun_idle_24f_12fps_300X300_19
+  - first:
+      213: -6389124816724137300
+    second: Sun_idle_24f_12fps_300X300_20
+  - first:
+      213: -1329117686567282941
+    second: Sun_idle_24f_12fps_300X300_21
+  - first:
+      213: 8105643797145068377
+    second: Sun_idle_24f_12fps_300X300_22
+  - first:
+      213: 2500586677692754725
+    second: Sun_idle_24f_12fps_300X300_23
+  - first:
+      213: 1541549448965565047
+    second: Sun_idle_24f_12fps_300X300_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2ef8407c5d2ea4fab4d973882c29eb
+      internalID: -1950484350328106421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a910f885bf7664a921c22b6348be21
+      internalID: 8664419867042770327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50acfc6bdef51ec42b158d32f0e0caf9
+      internalID: -347967895379778404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea30a3ec1ce7648a0ab9df28253847
+      internalID: 1847157736537575598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4ec7f3e3d97ae4080b00e4a0f96c15
+      internalID: -1464433010183613238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_5
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ca0566e8f8b44e84dc0984b9e48bc
+      internalID: -7313536855014567616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af069cf00d91eab48b8920a81b155274
+      internalID: 5358749995499513734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed21575811f87f14aa4ecdc601e1f02c
+      internalID: 190789717557703332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_8
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056f7a8f62bfdcd45883a6953e7197ab
+      internalID: -1184022483100043555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2aa7a19c8a6874eaa19be4e2af07d1
+      internalID: 3027184635866857964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83f52dd9fcfabb49a250a812bdd4763
+      internalID: 6031946822699224599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1442
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238b59e6b0e9ad4428b98b6e5042b41d
+      internalID: -6168243945855985216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569739c11866b346972a8ff3def3794
+      internalID: -1737054908021475169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fc1e70de251c341bf7341e83594f19
+      internalID: 6987706053176569563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f76de5f4c7048a43bb3373ed6da66af
+      internalID: -8669556050026334565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bfc44175f1be64b88cac02c454f0c5
+      internalID: 5626760731577072596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3203f51b35ebd7a449b49866dec26bce
+      internalID: -8465487396258416350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc320cf23f2234d4a9b39158ec7cee43
+      internalID: -422636215442461614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482604ccbecf64f49baaf173a94497fd
+      internalID: -4107461135461244769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 851
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3626bc63b5a165044ab1fdd7abe420cf
+      internalID: 8033865981133990255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed803ec241de894a8e6c4018fc99be5
+      internalID: -6389124816724137300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 851
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b217e9d68b1c56a489f57e7c04e0aae7
+      internalID: -1329117686567282941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2f6f90568c67e4d87f534ee6f539e8
+      internalID: 8105643797145068377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9373dc82aadca42409d63fc5564a24e0
+      internalID: 2500586677692754725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_idle_24f_12fps_300X300_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 1853
+        height: 1198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678d4258a49842547b59a23c657f3282
+      internalID: 1541549448965565047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

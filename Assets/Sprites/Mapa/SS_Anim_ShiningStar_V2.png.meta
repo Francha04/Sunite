@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: d63c2b9c120551c4b8c19f845646e15e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 347680387164491819
+    second: SS_Anim_ShiningStar_V2_0
+  - first:
+      213: -6252006994835481087
+    second: SS_Anim_ShiningStar_V2_1
+  - first:
+      213: 8108341727533458064
+    second: SS_Anim_ShiningStar_V2_2
+  - first:
+      213: -7963481285910279669
+    second: SS_Anim_ShiningStar_V2_3
+  - first:
+      213: -3129830899901302652
+    second: SS_Anim_ShiningStar_V2_4
+  - first:
+      213: 2707919402039938806
+    second: SS_Anim_ShiningStar_V2_5
+  - first:
+      213: -8304092184424496650
+    second: SS_Anim_ShiningStar_V2_6
+  - first:
+      213: -1832413711376385016
+    second: SS_Anim_ShiningStar_V2_7
+  - first:
+      213: 4461655528656575172
+    second: SS_Anim_ShiningStar_V2_8
+  - first:
+      213: 196394163326041143
+    second: SS_Anim_ShiningStar_V2_9
+  - first:
+      213: -7109122521478046492
+    second: SS_Anim_ShiningStar_V2_10
+  - first:
+      213: 287169454726496019
+    second: SS_Anim_ShiningStar_V2_11
+  - first:
+      213: -3270456028544332797
+    second: SS_Anim_ShiningStar_V2_12
+  - first:
+      213: 7384812284498918689
+    second: SS_Anim_ShiningStar_V2_13
+  - first:
+      213: 3506524457885139765
+    second: SS_Anim_ShiningStar_V2_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170.66666
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881abb6a8fa376341bd550e344bd9855
+      internalID: 347680387164491819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 170.66666
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e434c0c1d45e4893ada4ede2d4b0a
+      internalID: -6252006994835481087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170.66666
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138869c8070a30e40945ee2accf4a028
+      internalID: 8108341727533458064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 170.66666
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2ad87ad93343142adfe3a27e8bc9c8
+      internalID: -7963481285910279669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 170.66666
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0425f22e095b53a4496185578f1a9c01
+      internalID: -3129830899901302652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85.666664
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a232d6f45f51cc4681f8610ef182a2a
+      internalID: 2707919402039938806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85.666664
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7723db3119b1a104f8f806726b941af3
+      internalID: -8304092184424496650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 85.666664
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5258fbc68318584e84484dc8f740026
+      internalID: -1832413711376385016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 85.666664
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbce7ea80aec2647828a4d500c66421
+      internalID: 4461655528656575172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 85.666664
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536c2940deeb805439e895101cc5f963
+      internalID: 196394163326041143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666641
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f41469cd972fc4aa268bc6c273271b
+      internalID: -7109122521478046492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0.6666641
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bf11a29dcf1ac4c9502cd274e12a65
+      internalID: 287169454726496019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0.6666641
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a58140b8815e94eaf237d7e85a1e17
+      internalID: -3270456028544332797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0.6666641
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae7351f05a79134a86f80f1860d343f
+      internalID: 7384812284498918689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anim_ShiningStar_V2_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0.6666641
+        width: 102.4
+        height: 85.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e2d2b5bf82af342b1c7f673923aa66
+      internalID: 3506524457885139765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

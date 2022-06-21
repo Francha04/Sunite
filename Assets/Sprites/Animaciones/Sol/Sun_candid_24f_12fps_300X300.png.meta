@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: f5b56f1b24ed355409e2afcc8606cda0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4586490432142214968
+    second: Sun_candid_24f_12fps_300X300_0
+  - first:
+      213: 4549752986394112143
+    second: Sun_candid_24f_12fps_300X300_1
+  - first:
+      213: -109654523274938995
+    second: Sun_candid_24f_12fps_300X300_2
+  - first:
+      213: 2185912199088686840
+    second: Sun_candid_24f_12fps_300X300_3
+  - first:
+      213: 8670792711728196033
+    second: Sun_candid_24f_12fps_300X300_4
+  - first:
+      213: -5303603334337399583
+    second: Sun_candid_24f_12fps_300X300_5
+  - first:
+      213: -4120505147210231780
+    second: Sun_candid_24f_12fps_300X300_6
+  - first:
+      213: -468326316449422321
+    second: Sun_candid_24f_12fps_300X300_7
+  - first:
+      213: -5312301337864044155
+    second: Sun_candid_24f_12fps_300X300_8
+  - first:
+      213: 1029865963926897838
+    second: Sun_candid_24f_12fps_300X300_9
+  - first:
+      213: -7320682166865791157
+    second: Sun_candid_24f_12fps_300X300_10
+  - first:
+      213: -9111633190365702794
+    second: Sun_candid_24f_12fps_300X300_11
+  - first:
+      213: -5142295264840910838
+    second: Sun_candid_24f_12fps_300X300_12
+  - first:
+      213: -4758715019461246007
+    second: Sun_candid_24f_12fps_300X300_13
+  - first:
+      213: -5792533132902045286
+    second: Sun_candid_24f_12fps_300X300_14
+  - first:
+      213: 8639719803457454065
+    second: Sun_candid_24f_12fps_300X300_15
+  - first:
+      213: 3897942029154976984
+    second: Sun_candid_24f_12fps_300X300_16
+  - first:
+      213: 8644329631434963266
+    second: Sun_candid_24f_12fps_300X300_17
+  - first:
+      213: -5210164211839498116
+    second: Sun_candid_24f_12fps_300X300_18
+  - first:
+      213: 2429327308403489781
+    second: Sun_candid_24f_12fps_300X300_19
+  - first:
+      213: -1440017837760814318
+    second: Sun_candid_24f_12fps_300X300_20
+  - first:
+      213: 3541788962293208322
+    second: Sun_candid_24f_12fps_300X300_21
+  - first:
+      213: -6252298754332091013
+    second: Sun_candid_24f_12fps_300X300_22
+  - first:
+      213: -2566635944794533257
+    second: Sun_candid_24f_12fps_300X300_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49038cbbf771b24aa6b1121e810364e
+      internalID: -4586490432142214968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7aa4be629900a40acb4e93c00fc3ec
+      internalID: 4549752986394112143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c31c15a7d3df6b488818d70a3f47a11
+      internalID: -109654523274938995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa705acb7dfb974db7dec0bfab723f0
+      internalID: 2185912199088686840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa235627f23d2b4b99f61bd63c5be2d
+      internalID: 8670792711728196033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207166a87308cc34e88afaa8f156ff46
+      internalID: -5303603334337399583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfff073ca1974894784601fb6397b901
+      internalID: -4120505147210231780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5977e5005d23a0149a2381c72e8960a1
+      internalID: -468326316449422321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34951104fb472ef48aa65b2f02f27939
+      internalID: -5312301337864044155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab5a0fee73cce3418d3c9b8ea2acb95
+      internalID: 1029865963926897838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e57fd2215c25f45b50dd98a7ec7525
+      internalID: -7320682166865791157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b0b224fd588f144b2f3ea7b917c7a9
+      internalID: -9111633190365702794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef784a0e755275b4286112949ecf7fc6
+      internalID: -5142295264840910838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc969b411024f245a7fc9d752eae760
+      internalID: -4758715019461246007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f62067c39d66b144a857dd4fa4898e7
+      internalID: -5792533132902045286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af1cd5d23a4ac244a679664094e388b
+      internalID: 8639719803457454065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ab20116fbe2e74d8113181cb031517
+      internalID: 3897942029154976984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2eee27f49e06a42a010a866cdfe466
+      internalID: 8644329631434963266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c05fb48cab80942b618f5dec4a4019
+      internalID: -5210164211839498116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1c5bb79e8511b4593d4d828867eeee
+      internalID: 2429327308403489781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07779035135dc0e45a8ddaedb83e1a8b
+      internalID: -1440017837760814318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d215dcff93f3ce438fd4a9af60f2c9e
+      internalID: 3541788962293208322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a6efc0ca59b7040bcd747bf2f70602
+      internalID: -6252298754332091013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_candid_24f_12fps_300X300_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba6c3df72a2096418d77e42181653f5
+      internalID: -2566635944794533257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

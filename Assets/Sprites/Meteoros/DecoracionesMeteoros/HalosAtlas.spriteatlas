@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HalosAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f851a7715515c32498b1debb683f3933, type: 3}
+    totalSpriteSurfaceArea: 3020500
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -8807111091659505526, guid: f851a7715515c32498b1debb683f3933, type: 3}
+  - {fileID: -5847554185823141250, guid: f851a7715515c32498b1debb683f3933, type: 3}
+  - {fileID: -4919270647785860183, guid: f851a7715515c32498b1debb683f3933, type: 3}
+  - {fileID: 4113455425486651490, guid: f851a7715515c32498b1debb683f3933, type: 3}
+  - {fileID: 8185431727126554257, guid: f851a7715515c32498b1debb683f3933, type: 3}
+  - {fileID: -7921092698015129228, guid: f851a7715515c32498b1debb683f3933, type: 3}
+  - {fileID: -7392342245814153389, guid: f851a7715515c32498b1debb683f3933, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - halos_863X500_atlas_4
+  - halos_863X500_atlas_5
+  - halos_863X500_atlas_6
+  - halos_863X500_atlas_0
+  - halos_863X500_atlas_1
+  - halos_863X500_atlas_2
+  - halos_863X500_atlas_3
+  m_Tag: HalosAtlas
+  m_IsVariant: 0

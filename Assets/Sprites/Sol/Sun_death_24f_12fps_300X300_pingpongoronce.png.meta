@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: aef9e2d7afe484e41bae940764f3a682
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2988492180586784654
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_0
+  - first:
+      213: -4717753985078004633
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_1
+  - first:
+      213: 5146932107748733402
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_2
+  - first:
+      213: 3709983663796490104
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_3
+  - first:
+      213: 6249072122382615239
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_4
+  - first:
+      213: -1018885361916832259
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_5
+  - first:
+      213: -6321174350376415393
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_6
+  - first:
+      213: 6245880822320079911
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_7
+  - first:
+      213: -5234953254455513931
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_8
+  - first:
+      213: -5812044443687706235
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_9
+  - first:
+      213: -6153631097567468558
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_10
+  - first:
+      213: -1296956707761863371
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_11
+  - first:
+      213: -417981674890467000
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_12
+  - first:
+      213: 104058943557411359
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_13
+  - first:
+      213: -1397816572614603220
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_14
+  - first:
+      213: -9129629908722908020
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_15
+  - first:
+      213: 4886325792766163885
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_16
+  - first:
+      213: 827992735727418692
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_17
+  - first:
+      213: -7022073711214454705
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_18
+  - first:
+      213: -8096439234150544928
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_19
+  - first:
+      213: 2106433464914207870
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_20
+  - first:
+      213: -7540632794218773107
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_21
+  - first:
+      213: -8793988076995940253
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_22
+  - first:
+      213: 9128406116392590670
+    second: Sun_death_24f_12fps_300X300_pingpongoronce_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7ce61dbf67140489915d110211cce5
+      internalID: -2988492180586784654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436ec10759faef4aa0cdddff827055d
+      internalID: -4717753985078004633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530bbd1272693104dabaa79f877e659f
+      internalID: 5146932107748733402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60863fe05f2a5f349b5a25770aae2ca1
+      internalID: 3709983663796490104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8199492c37f224c4b9c433322ec9dd67
+      internalID: 6249072122382615239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1748
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c99a577b322b438a9784bc4d1fb8c
+      internalID: -1018885361916832259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c9a023c7a90f40ba13cc21e471904
+      internalID: -6321174350376415393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa070399e8fae048bd895d4a92304f6
+      internalID: 6245880822320079911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47faf7f78b140dd4c9472608c2946833
+      internalID: -5234953254455513931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d745efb6a6d31c040af503e9c297d0a1
+      internalID: -5812044443687706235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4e02c8d485df542ae8d9a3161a96fe
+      internalID: -6153631097567468558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1448
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af07d810a80a69f4195a11962d6265c2
+      internalID: -1296956707761863371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8538f4be7428c45b15889ced127e15
+      internalID: -417981674890467000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a724f2e852a168a4798238028289951c
+      internalID: 104058943557411359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ea20445626fc34289e0f5d99602fcf
+      internalID: -1397816572614603220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68250f085a710f46b573194e7b8cac6
+      internalID: -9129629908722908020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a090d32e840444ca7c76dce14a8357
+      internalID: 4886325792766163885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1148
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a611a949e3333b4cb162894c4b74a41
+      internalID: 827992735727418692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e23face49b61f4f9e2f6fa526bc498
+      internalID: -7022073711214454705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c728bdbde1dc45b73febff661e2c8
+      internalID: -8096439234150544928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bda59729ae2994a93e30464f3b4c04
+      internalID: 2106433464914207870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c19499bd6a1fb4887186ed445bfd1a
+      internalID: -7540632794218773107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98175ee5432dc946a07f2ab03d511a7
+      internalID: -8793988076995940253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_death_24f_12fps_300X300_pingpongoronce_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 848
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc9f8e278adbf245970cbf779eb7fe9
+      internalID: 9128406116392590670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
